@@ -1,0 +1,9 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‚Ž­Œ¾1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡‰ér8Øç«Œ¾1
+f
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(ëã©Œûÿÿÿÿ8ÔÅ±Œ¾1
+[
+java:S1854"9Remove this useless assignment to local variable "lines".(ëã©Œûÿÿÿÿ8ÖÅ±Œ¾1
+L
+java:S1481"*Remove this unused "lines" local variable.(ëã©Œûÿÿÿÿ8×Å±Œ¾1

@@ -1,0 +1,38 @@
+
+c
+java:S18549"ARemove this useless assignment to local variable "groupByGender".(ğ†°üÿÿÿÿ8‚ÈÄùº1
+_
+java:S1854("=Remove this useless assignment to local variable "noneMatch".(ê¬öıÿÿÿÿ8‚ÈÄùº1
+^
+java:S1854""<Remove this useless assignment to local variable "anyMatch".(Éïœÿÿÿÿÿ8‚ÈÄùº1
+^
+java:S1854"<Remove this useless assignment to local variable "allMatch".(Î¾Øüÿÿÿÿ8‚ÈÄùº1
+\
+java:S1854":Remove this useless assignment to local variable "sorted".(ÂŞ™øÿÿÿÿ8‚ÈÄùº1
+\
+java:S1854":Remove this useless assignment to local variable "female".(²¢œ±øÿÿÿÿ8‚ÈÄùº1
+M
+java:S1481"+Remove this unused "female" local variable.(²¢œ±øÿÿÿÿ8„ÈÄùº1
+]	java:S125"<This block of commented-out lines of code should be removed.(ã”œçşÿÿÿÿ8„ÈÄùº1
+M
+java:S1481"+Remove this unused "sorted" local variable.(ÂŞ™øÿÿÿÿ8„ÈÄùº1
+]	java:S125"<This block of commented-out lines of code should be removed.(åŸÎùÿÿÿÿ8„ÈÄùº1
+O
+java:S1481"-Remove this unused "allMatch" local variable.(Î¾Øüÿÿÿÿ8…ÈÄùº1
+X	java:S125"<This block of commented-out lines of code should be removed.(ı©Ôú8…ÈÄùº1
+O
+java:S1481""-Remove this unused "anyMatch" local variable.(Éïœÿÿÿÿÿ8…ÈÄùº1
+X	java:S125$"<This block of commented-out lines of code should be removed.(ÅøÖ«8…ÈÄùº1
+P
+java:S1481(".Remove this unused "noneMatch" local variable.(ê¬öıÿÿÿÿ8†ÈÄùº1
+I
+java:S2201/"'The return value of "max" must be used.(ßñÕšşÿÿÿÿ8†ÈÄùº1
+]	java:S125)"<This block of commented-out lines of code should be removed.(İÊÓ“şÿÿÿÿ8†ÈÄùº1
+D
+java:S22015"'The return value of "min" must be used.(ØË±Ù8†ÈÄùº1
+X	java:S1250"<This block of commented-out lines of code should be removed.(ôÍìİ8†ÈÄùº1
+X	java:S1256"<This block of commented-out lines of code should be removed.(ôÍìİ8†ÈÄùº1
+T
+java:S14819"2Remove this unused "groupByGender" local variable.(ğ†°üÿÿÿÿ8‡ÈÄùº1
+X	java:S125;"<This block of commented-out lines of code should be removed.(Ìï…Â8‡ÈÄùº1
+L	java:S106G"+Replace this use of System.out by a logger.(ı¿ÆÕúÿÿÿÿ8‡ÈÄùº1

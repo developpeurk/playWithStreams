@@ -1,0 +1,16 @@
+
+_
+java:S1854	"BRemove this useless assignment to local variable "upperCaseName2".(ø¶Ôñ8ƒ¿Õö»1
+c
+java:S1854"ARemove this useless assignment to local variable "upperCaseName".(±Øõéùÿÿÿÿ8…¿Õö»1
+}
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(±Øõéùÿÿÿÿ8…¿Õö»1
+b
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(±Øõéùÿÿÿÿ8ˆ¿Õö»1
+T
+java:S1481"2Remove this unused "upperCaseName" local variable.(±Øõéùÿÿÿÿ8‰¿Õö»1
+x
+java:S4276	"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ø¶Ôñ8‰¿Õö»1
+P
+java:S1481	"3Remove this unused "upperCaseName2" local variable.(ø¶Ôñ8‹¿Õö»1
+G	java:S106"+Replace this use of System.out by a logger.(ßÄ„×8‹¿Õö»1

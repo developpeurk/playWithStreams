@@ -1,0 +1,10 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğğ¼8‚±“Œ¾1
+G	java:S106"+Replace this use of System.out by a logger.(ÎÏ•œ8”±“Œ¾1
+G	java:S106"+Replace this use of System.out by a logger.(±‰Ïò8—±“Œ¾1
+X	java:S125"<This block of commented-out lines of code should be removed.(«Şõ8†ÌŒ¾1
+]	java:S125"<This block of commented-out lines of code should be removed.(á Ñ²ùÿÿÿÿ8åŒ¾1
+]	java:S125"<This block of commented-out lines of code should be removed.(ß×È¾úÿÿÿÿ8éİŒ¾1
+t
+java:S6204 "RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ñŠ¶ğşÿÿÿÿ8–±“Œ¾1
+L	java:S106!"+Replace this use of System.out by a logger.(àÊñòÿÿÿÿÿ8¡¹Œ¾1
