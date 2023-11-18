@@ -45,3 +45,18 @@ This document provides an overview of key concepts and operations available in J
 This overview provides insights into stream processing, available methods, and best practices for utilizing the Stream API in Java.
 
 ---
+
+| Operation | Description |
+|-----------|-------------|
+| `map()` | Applies a function to each element and returns a new stream of the results. |
+| `filter()` | Filters elements based on a given predicate and returns a stream with only the matching elements. |
+| `reduce()` | Aggregates elements to a single result by applying a binary operation. |
+| `forEach()` | Performs an action on each element in the stream. |
+| `count()` | Returns the count of elements in the stream. |
+| `max()` | Finds the maximum element in the stream based on a comparator. |
+| `min()` | Finds the minimum element in the stream based on a comparator. |
+| `collect()` | Transforms the elements into a collection or other data structure. |
+| `allMatch()` | Checks if all elements match a given predicate. |
+| `anyMatch()` | Checks if any elements match a given predicate. |
+| `noneMatch()` | Checks if no elements match a given predicate. |
+
