@@ -60,3 +60,22 @@ This overview provides insights into stream processing, available methods, and b
 | `anyMatch()` | Checks if any elements match a given predicate. |
 | `noneMatch()` | Checks if no elements match a given predicate. |
 
+
+----
+## Functional Programming Concepts
+
+| Concept | Description |
+|---------|-------------|
+| Pure Functions | Functions that consistently produce the same output for the same input, without causing side effects. |
+| Immutability | Data that cannot be changed once created; any modification creates a new copy. |
+| Higher-order Functions | Functions that can accept other functions as arguments or return functions as results. |
+| Lambda Expressions | Anonymous functions typically used to pass behavior as an argument. |
+| Streams | A sequence of elements supporting sequential and parallel aggregate operations. |
+| Map / Filter / Reduce | Key functional programming operations to manipulate collections or sequences of data. |
+| Optional | A container object that may or may not contain a non-null value. |
+| Predicate | A functional interface representing a boolean-valued function of one argument; often used for filtering. Example: `Predicate<Integer> isPositive = num -> num > 0;` |
+| Function | A functional interface that accepts one argument and produces a result; used for transformation or mapping. Example: `Function<Integer, String> intToString = Object::toString;` |
+| Consumer | A functional interface that accepts a single argument and performs an operation without returning any result. Example: `Consumer<String> print = System.out::println;` |
+| BiConsumer | A functional interface that represents an operation accepting two input arguments and returns no result; often used for side effects. Example: `BiConsumer<String, Integer> printKeyValue = (key, value) -> System.out.println(key + ": " + value);` |
+
+
